@@ -1,0 +1,7 @@
+Employee_Id,Last_Name,First_Name,Middle_ Name,Job_Id,hire_date,Salary,Comm,depart ment_Id 
+7369,Smith,John,Q,667,17-Dec-84,800,Null,20
+7499,Allen,Kevin,J,670,20-Feb-85,1600,300,30
+755,Doyle,Jean,K,671,04-Apr-85,2850,Null,30
+756,Dennis,Lynn,S,671,15-May-85,2750,Null,30
+757,Baker,Leslie,D,671,10-Jun-85,2200,Null,40
+7521,Wark,Cynthia,D,670,22-Feb-85,1250,50,30
